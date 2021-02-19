@@ -1,0 +1,38 @@
+.add_shape{
+    background-color: #58e6ce;
+    border: 3px solid #000000;
+}
+
+.canvas{
+    padding-left: 4em;
+    padding-right: 4em;
+}
+
+.prop_card {
+    border: 3px solid black;
+    border-radius: 3px;
+}
+
+.prop_color {
+    background-color: #2593a1;
+    color: black;
+    border:black;
+    border-radius: black;
+}
+
+.Circle-shape {
+    background-color: rgb(75, 18, 102);
+    border-radius: 50%;
+}
+
+.Square-shape{
+    background-color:rgb(202, 0, 0);
+}
+
+.Rectangle-shape{
+    background-color: rgb(7, 121, 7);
+}
+
+/* .Triangle-shape{
+    background-color: #ffff00; */
+/* } */
